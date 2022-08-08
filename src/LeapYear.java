@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class LeapYear {
     public static void main(String[] args) {
-//        int y = 2024;
         Scanner in = new Scanner(System.in);
         System.out.println("Press year: ");
         int y = in.nextInt();
